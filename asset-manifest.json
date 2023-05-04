@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://jakson0070.github.io/csb-rlt57t/static/js/main.f75318d4.chunk.js",
+    "main.js.map": "https://jakson0070.github.io/csb-rlt57t/static/js/main.f75318d4.chunk.js.map",
+    "runtime-main.js": "https://jakson0070.github.io/csb-rlt57t/static/js/runtime-main.11e3c621.js",
+    "runtime-main.js.map": "https://jakson0070.github.io/csb-rlt57t/static/js/runtime-main.11e3c621.js.map",
+    "static/js/2.d320fb90.chunk.js": "https://jakson0070.github.io/csb-rlt57t/static/js/2.d320fb90.chunk.js",
+    "static/js/2.d320fb90.chunk.js.map": "https://jakson0070.github.io/csb-rlt57t/static/js/2.d320fb90.chunk.js.map",
+    "index.html": "https://jakson0070.github.io/csb-rlt57t/index.html",
+    "precache-manifest.da7b8a7e2b0ffd47680f61a8deeaf200.js": "https://jakson0070.github.io/csb-rlt57t/precache-manifest.da7b8a7e2b0ffd47680f61a8deeaf200.js",
+    "service-worker.js": "https://jakson0070.github.io/csb-rlt57t/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e3c621.js",
+    "static/js/2.d320fb90.chunk.js",
+    "static/js/main.f75318d4.chunk.js"
+  ]
+}
